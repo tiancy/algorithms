@@ -1,5 +1,9 @@
 package algorithms;
 
+/**
+ * Author Tian
+ * Date   2020-07-22
+ */
 public class GoldenRatio {
 
     /**
